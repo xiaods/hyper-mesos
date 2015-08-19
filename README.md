@@ -5,3 +5,5 @@ TODO
 - [ ] Add Hyper option in mesos kernel.
 - [ ] Marathon support hyper type.
 
+
+### MesosConf Pre-Hackthon 2015 Seattle
